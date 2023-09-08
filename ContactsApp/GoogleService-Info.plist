@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>757031133986-eqqqbokfg0ul7s7jusk1q7k8fiq1v6kd.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.757031133986-eqqqbokfg0ul7s7jusk1q7k8fiq1v6kd</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCgHeqeXN6X9WyQ63TCdXpG9Mgerx2u7rk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>757031133986</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>rezzak.ContactsApp</string>
+	<key>PROJECT_ID</key>
+	<string>contactsapp-24aea</string>
+	<key>STORAGE_BUCKET</key>
+	<string>contactsapp-24aea.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:757031133986:ios:2d4ba05818dbfacc76fb7b</string>
+</dict>
+</plist>
